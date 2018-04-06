@@ -1,0 +1,19 @@
+{
+  "name": "lucas-series",
+  "version": "1.0.0",
+  "description": "Lucas series generator",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test"
+  },
+  "keywords": [
+    "lucas",
+    "series",
+    "generator"
+  ],
+  "author": "Joseph Werle <joseph.werle@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "tape": "^4.9.0"
+  }
+}
